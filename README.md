@@ -7,4 +7,4 @@ The primary objectives of this project are to:
 
 Identify key factors that influence the salaries of data analysts.
 Analyze the impact of education level, specific skills, job location, and other variables on salary.
-Develop predictive models to estimate salaries based on these factors.
+
